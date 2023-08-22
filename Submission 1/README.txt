@@ -8,7 +8,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1C79JmX6DBmspFz-TnTBiI25vfSO_o6HNeYpjgg4bRHw/edit?usp=sharing
 
 Project title:
-Detection of Skin Diseases Using Machine Learning & Deep Learning Algorithms
+Skin Lesion Detection and Classification Using Deep Learning: A Comprehensive Approach for Accurate Diagnosis and Treatment
 
 Group Number:
 7
